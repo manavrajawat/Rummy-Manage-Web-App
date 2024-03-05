@@ -1,5 +1,7 @@
 # Game Management App
 
+![Game Management App](https://picsum.photos/1200/600)
+
 This is a game management application built with Next.js and utilizing real-time database capabilities. It provides a dashboard interface and various features for managing games.
 
 ## Getting Started
